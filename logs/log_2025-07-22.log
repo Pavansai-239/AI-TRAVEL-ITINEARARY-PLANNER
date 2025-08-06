@@ -1,0 +1,21 @@
+2025-07-22 11:26:18,475 - INFO - Intilaized TravelPlanner instance
+2025-07-22 11:26:18,476 - INFO - City set sucesfully
+2025-07-22 11:26:18,476 - INFO - Interest also set sucesfully..
+2025-07-22 11:26:18,476 - INFO - Generating itineary for Delhi and for interests : ['Red Fort, Lotus Temple, Qutub Minar'] 
+2025-07-22 11:26:18,476 - ERROR - error while creating itineary:'interest'
+2025-07-22 11:31:27,530 - INFO - Intilaized TravelPlanner instance
+2025-07-22 11:31:27,531 - INFO - City set sucesfully
+2025-07-22 11:31:27,531 - INFO - Interest also set sucesfully..
+2025-07-22 11:36:15,592 - INFO - Initialized TravelPlanner instance
+2025-07-22 11:36:15,593 - INFO - City set successfully
+2025-07-22 11:36:15,593 - INFO - Interests set successfully.
+2025-07-22 11:36:15,593 - ERROR - Error while creating itinerary: 'interest'
+2025-07-22 11:43:21,007 - INFO - Initialized TravelPlanner instance
+2025-07-22 11:43:21,007 - INFO - City set successfully
+2025-07-22 11:43:21,007 - INFO - Interests set successfully.
+2025-07-22 11:43:21,007 - ERROR - Error while creating itinerary: name 'generate_itineary' is not defined
+2025-07-22 11:45:04,050 - INFO - Initialized TravelPlanner instance
+2025-07-22 11:45:04,050 - INFO - City set successfully
+2025-07-22 11:45:04,050 - INFO - Interests set successfully.
+2025-07-22 11:45:06,778 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-22 11:45:06,793 - INFO - Itinerary created successfully.
